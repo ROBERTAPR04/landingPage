@@ -1,0 +1,161 @@
+.navbar{
+    height: 100px;
+}
+
+.logo img{
+    width: 220px;
+    margin-left: 41%;
+
+}
+
+.container{
+    width: 100%;
+    max-width: 1000px;
+    padding: 0;
+}
+
+.hero header .title h2 strong{
+    color: #d410a2;
+}
+
+.hero header .title{
+    display: flex;
+    justify-content: center;
+    padding: 24px 0 0 0;
+}
+
+.iframe{
+    display: flex;
+    justify-content: center;
+    margin-right: 50%;
+}
+
+.acess{
+    padding: 20px 0;
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 55vh;
+}
+
+.btn{
+    margin-left: 25%;
+}
+
+.btn-make{
+    padding: 12px 20px;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    max-width: 372px;
+    margin: 0 auto;
+    width: 100%;
+    min-height: 52px;
+    background: #0178ff;
+    border: none;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    background-attachment: scroll;
+    background-color: rgb(29, 82, 212);
+}
+
+.btn-make:hover{
+    color: #ffffff;
+    background: #0178ff;
+}
+
+.container-cards{
+    padding: 12px 0 0 0;
+}
+
+.collections-itens .item img{
+    width: 60rem;
+    padding: 12px;
+}
+
+.collections-itens p{
+    text-align: center;
+    font-size: 16px;
+}
+
+.mudences{
+    width: 100%;
+    height: 60vh;
+    background-color: #ffffff;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+}
+
+.title h2{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.collections-itens .item img{
+    margin-left: 40%;
+}
+
+.item{
+    display: flex;
+    padding: 15px;
+    width: 50%;
+    margin-bottom: 26px;
+    text-align: left;
+    margin: -20px 0;
+    padding-right: 70px;
+    padding-left: 0;
+    position: relative;
+}
+
+.itens .item svg{
+    margin-left: 20%;
+}
+
+.itens .item .description{
+    padding: 10px;
+}
+
+.itens .item .description p{
+    font-size: 18px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.text{
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 16vh;
+    padding: 16px;
+}
+
+.text p strong{
+    color: green;
+}
+
+.ice{
+    display: flex;
+    justify-content: center;
+}
+
+.line-img{
+    margin-top: 80px;
+}
+
+.line-img img{
+    width: 267px;
+    border-radius: 10px;
+}
+
+.paragraph p{
+    font-size: 16px;
+}
+
+.liro{
+    width: 100%;
+    height: 80vh;
+    background-color: #f0f0f0;
+}
