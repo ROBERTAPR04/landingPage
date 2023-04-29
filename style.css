@@ -128,7 +128,7 @@
 .text{
     background-color: #f0f0f0;
     width: 100%;
-    height: 16vh;
+    height: 20vh;
     padding: 16px;
 }
 
@@ -143,6 +143,8 @@
 
 .line-img{
     margin-top: 80px;
+    margin-left: 18%;
+    margin-bottom: 32px;
 }
 
 .line-img img{
@@ -152,10 +154,26 @@
 
 .paragraph p{
     font-size: 16px;
+    margin-right: 45px;
 }
 
-.liro{
-    width: 100%;
-    height: 80vh;
-    background-color: #f0f0f0;
+.card{
+    margin-left: 32px;
+    border-radius: 25px;
+}
+
+.card-img-top{
+    width: 100px;
+    border-radius: 50%;
+    padding: 12px;
+}
+
+.card-body span{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.image img{
+   width: 500px;
+   border-radius: 12px;
 }
